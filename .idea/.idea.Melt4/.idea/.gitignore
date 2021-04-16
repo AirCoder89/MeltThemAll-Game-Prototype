@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.Melt4.iml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\SBS\Desktop\Melt4\.idea\.idea.Melt4\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
